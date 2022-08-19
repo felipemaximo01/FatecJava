@@ -1,5 +1,3 @@
-package Java.Atividade1;
-
 import java.util.Scanner;
 
 public class DolarReal{
@@ -11,6 +9,6 @@ public class DolarReal{
         System.out.println("Digite a quantidade de dolares disponivel:");
         D = ler.nextDouble();
         R = D * C;
-        System.out.println("O valor convertido em real é: " + R);
+        System.out.printf("O valor convertido em real é: %.2f", R);
     }
 }

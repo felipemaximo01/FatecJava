@@ -1,5 +1,3 @@
-package Java.Atividade1;
-
 import java.util.Scanner;
 
 public class InvertVar {

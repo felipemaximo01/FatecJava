@@ -1,5 +1,3 @@
-package Java.Atividade1;
-
 import java.util.Scanner;
 
 public class AreaCircun {
@@ -9,6 +7,6 @@ public class AreaCircun {
         System.out.println("Digite o raio da circunferência:");
         R = ler.nextDouble();
         A = 3.14159 * (R*R);
-        System.out.println("O valor da area é: " + A);
+        System.out.printf("O valor da area é: %.2f", A);
     }
 }
