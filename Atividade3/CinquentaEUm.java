@@ -1,7 +1,5 @@
 package Java.Atividade3;
 
-//Felipe Maximo Colen
-//2171392211043
 /*Receber duas notas em dois vetores diferentes de cinco alunos e fazer a média  */
 
 import java.util.Scanner;
