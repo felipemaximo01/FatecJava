@@ -1,7 +1,5 @@
 package Java.Atividade3;
 
-//Felipe Maximo Colen
-//2171392211043
 /*Criar dois vetores, no primeiro vetor alocar os numeros de 1 a 10 e no segundo vetor alocar esses mesmo numeros multiplicados por dois */
 
 public class QuarentaEOito {
