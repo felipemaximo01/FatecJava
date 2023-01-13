@@ -1,6 +1,6 @@
 //Programa para ler dados de um aluno e exibi-lo
 
-package Java.Atividade4;
+package TecnicasDeProgramacao.Atividade4;
 
 import java.util.Scanner;
 

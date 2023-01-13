@@ -1,6 +1,6 @@
 //Classe criada para a realização do exercicio 57.
 
-package Java.Atividade4;
+package TecnicasDeProgramacao.Atividade4;
 
 public class Conta {
     int numConta;

@@ -1,6 +1,6 @@
 //Classe criada para a realização do Exercicio 59.
 
-package Java.Atividade4;
+package TecnicasDeProgramacao.Atividade4;
 
 public class Aluno {
     String raAluno;

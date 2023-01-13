@@ -1,6 +1,6 @@
 /*programa para ler nome, salario bruto e descontos de um funcionario e exibir o nome e salário liquido, também exibir o resultado de um calculo 
 para um aumento baseado em uma porcentagem fornecida pelo usuário*/
-package Java.Atividade5;
+package TecnicasDeProgramacao.Atividade5;
 
 import java.util.Scanner;
 

@@ -1,5 +1,7 @@
-package Java.Atividade3;
+package TecnicasDeProgramacao.Atividade3;
 
+//Felipe Maximo Colen
+//2171392211043
 /*Criar um vetor alocar os numeros de 1 a 10 nele e exibi-lo */
 
 public class QuarentaESeis {

@@ -1,4 +1,4 @@
-package Java.Atividade2;
+package TecnicasDeProgramacao.Atividade2;
 
 import java.util.Scanner;
 

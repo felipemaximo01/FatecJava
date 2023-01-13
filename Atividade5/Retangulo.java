@@ -1,4 +1,4 @@
-package Java.Atividade5;
+package TecnicasDeProgramacao.Atividade5;
 
 public class Retangulo {
     double largRetangulo;

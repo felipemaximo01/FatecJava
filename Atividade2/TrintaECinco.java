@@ -1,4 +1,4 @@
-package Java.Atividade2;
+package TecnicasDeProgramacao.Atividade2;
 
 public class TrintaECinco {
     public static void main(String[] args) {

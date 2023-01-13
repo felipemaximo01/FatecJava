@@ -1,4 +1,4 @@
-package Java.Atividade7;
+package TecnicasDeProgramacao.Atividade7;
 
 public class Aluno {
     private String nome;

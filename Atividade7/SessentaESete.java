@@ -1,4 +1,4 @@
-package Java.Atividade7;
+package TecnicasDeProgramacao.Atividade7;
 
 public class SessentaESete{
     public static void main(String[] args) {

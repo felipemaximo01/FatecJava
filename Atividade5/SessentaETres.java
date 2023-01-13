@@ -1,6 +1,6 @@
 //programa para ler a altura e largura de um retangulo e exibir a sua area, perimetro e diagonal.
 
-package Java.Atividade5;
+package TecnicasDeProgramacao.Atividade5;
 
 import java.util.Scanner;
 
